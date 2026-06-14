@@ -5,7 +5,7 @@ Reproduction code and processed data for the paper
 (Singh, Reddy, Chopra — Jasper Research).
 
 - **Paper (arXiv):** `<ARXIV-ID-TO-INSERT>`
-- **Archived code + processed data + run artifacts (Zenodo):** `<ZENODO-DOI-TO-INSERT>`
+- **Archived code + processed data + run artifacts (Zenodo):** [10.5281/zenodo.20693546](https://doi.org/10.5281/zenodo.20693546)
 
 This repository contains the full pipeline that turns the public Binance
 options archive into fixed-shape implied-volatility surfaces, trains a
@@ -19,8 +19,8 @@ reproduces every figure, table, and reported number in the manuscript.
 | Artifact | Location |
 |---|---|
 | All source code (`src/`), notebooks, pipeline | **this repo** |
-| Processed `6 × 7` gridded surfaces (`data/grid/`) | **Zenodo** (`<ZENODO-DOI>`) |
-| Trained runs: configs, checkpoints, metrics, plots (`runs/`) | **Zenodo** (`<ZENODO-DOI>`) |
+| Processed `6 × 7` gridded surfaces (`data/grid/`) | **Zenodo** ([10.5281/zenodo.20693546](https://doi.org/10.5281/zenodo.20693546)) |
+| Trained runs: configs, checkpoints, metrics, plots (`runs/`) | **Zenodo** ([10.5281/zenodo.20693546](https://doi.org/10.5281/zenodo.20693546)) |
 | Raw Binance EOH inputs | **public source** (see below); regenerable via `fetch_binance_eoh.py` |
 
 `data/` and `runs/` are git-ignored. To reproduce *without* re-running the
