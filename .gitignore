@@ -1,0 +1,20 @@
+data/
+runs/
+paper/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# excluded from publication (Deribit live-cron infra; not used in the paper)
+src/fetch_deribit.py
+src/deribit_loop.py
+Dockerfile
+compose.yaml
+.dockerignore
+src/fetch_nse_bhavcopy.py
+src/clean_nse.py
+src/build_grid_nse.py
+notebooks/02_eda_nse.py
+notebooks/02_eda_nse.ipynb

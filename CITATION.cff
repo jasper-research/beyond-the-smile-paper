@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the paper below."
+title: "Beyond the Smile: A Hybrid Convolutional VAE for Crypto Volatility Surfaces"
+abstract: >-
+  Reproduction code and processed data for a convolutional variational
+  autoencoder with a deterministic hybrid reconstruction rule, trained on
+  crypto options implied-volatility surfaces.
+type: software
+authors:
+  - family-names: Singh
+    given-names: Sadanand
+    affiliation: Jasper Research
+  - family-names: Reddy
+    given-names: Allam
+    affiliation: Jasper Research
+  - family-names: Chopra
+    given-names: Manan
+    affiliation: Jasper Research
+version: 1.0.0
+date-released: "2026-06-10"
+license: MIT
+repository-code: "https://github.com/jasper-research/beyond-the-smile-paper"
+doi: "<ZENODO-DOI-TO-INSERT>"
+keywords:
+  - variational-autoencoder
+  - implied-volatility
+  - options
+  - cryptocurrency
+  - quantitative-finance
+preferred-citation:
+  type: article
+  title: "Beyond the Smile: A Hybrid Convolutional VAE for Crypto Volatility Surfaces"
+  authors:
+    - family-names: Singh
+      given-names: Sadanand
+    - family-names: Reddy
+      given-names: Allam
+    - family-names: Chopra
+      given-names: Manan
+  year: 2026
+  notes: "arXiv preprint arXiv:<ARXIV-ID-TO-INSERT>"
