@@ -21,6 +21,13 @@ date-released: "2026-06-10"
 license: MIT
 repository-code: "https://github.com/jasper-research/beyond-the-smile-paper"
 doi: "10.5281/zenodo.20693546"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20693546"
+    description: "Version DOI — this exact release (v1.0.0)"
+  - type: doi
+    value: "10.5281/zenodo.20693545"
+    description: "Concept DOI — always resolves to the latest version"
 keywords:
   - variational-autoencoder
   - implied-volatility
