@@ -4,7 +4,7 @@ Reproduction code and processed data for the paper
 **"Beyond the Smile: A Hybrid Convolutional VAE for Crypto Volatility Surfaces"**
 (Singh, Reddy, Chopra — Jasper Research).
 
-- **Paper (arXiv):** `<ARXIV-ID-TO-INSERT>`
+- **Paper (arXiv):** [arXiv:2606.16961](https://arxiv.org/abs/2606.16961)
 - **Archived code + processed data + run artifacts (Zenodo):** [10.5281/zenodo.20693546](https://doi.org/10.5281/zenodo.20693546)
 
 This repository contains the full pipeline that turns the public Binance
@@ -101,7 +101,7 @@ If you use this code or data, please cite the paper (see `CITATION.cff`):
   title  = {Beyond the Smile: A Hybrid Convolutional VAE for Crypto Volatility Surfaces},
   author = {Singh, Sadanand and Reddy, Allam and Chopra, Manan},
   year   = {2026},
-  eprint = {<ARXIV-ID-TO-INSERT>},
+  eprint = {2606.16961},
   archivePrefix = {arXiv}
 }
 ```
